@@ -1,6 +1,6 @@
 # OpioidOracle
 
-## AI-Powered Forecasting of Medicaid Long-Acting Opioid Prescribing Rates
+## Time Series Forecasting of Medicaid Long-Acting Opioid Prescribing Rates- A Prophet Model
 
 OpioidOracle is a predictive analytics and time-series forecasting project that leverages Meta's Prophet framework to forecast Long-Acting (LA) opioid prescribing rates using historical Medicaid prescription data. The project analyzes prescribing behavior across geographic regions and healthcare plan types to identify long-term trends, forecast future opioid utilization, and support evidence-based healthcare decision-making.
 
@@ -271,6 +271,14 @@ OpioidOracle/
 - Geospatial Opioid Trend Visualization
 
 ---
+
+## Results
+<img width="602" height="331" alt="image" src="https://github.com/user-attachments/assets/d41c80a9-c345-4db6-8145-fd97b08b13d7" />
+<img width="603" height="319" alt="image" src="https://github.com/user-attachments/assets/4e3102d8-0832-40a6-96e2-cb4feb567052" />
+<img width="604" height="333" alt="image" src="https://github.com/user-attachments/assets/a733cae4-1fc5-4ebb-a35c-b285addfe01f" />
+
+---
+
 
 ## Disclaimer
 
