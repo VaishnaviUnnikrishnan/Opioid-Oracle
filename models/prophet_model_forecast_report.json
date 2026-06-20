@@ -1,0 +1,13 @@
+{
+    "generated_at": "2026-06-20T22:53:09.089909",
+    "forecast_periods": 12,
+    "forecast_start": "2025-01-01T00:00:00",
+    "forecast_end": "2036-01-01T00:00:00",
+    "summary": {
+        "mean_forecast": 5.037836892556032,
+        "min_forecast": 4.405549660104395,
+        "max_forecast": 5.6701241250076695,
+        "mean_upper": 15.216736723625571,
+        "mean_lower": -4.805260677750305
+    }
+}
