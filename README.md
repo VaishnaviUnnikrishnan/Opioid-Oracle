@@ -220,6 +220,15 @@ OpioidOracle/
 ```
 
 ---
+### Results
+<img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/02587825-9f6f-4f57-84e3-5f7dd25ca212" />
+<img width="366" height="233" alt="Screenshot 2026-06-17 220217" src="https://github.com/user-attachments/assets/d849478f-cb1f-4c7b-afcf-403f7992c31c" />
+<img width="602" height="331" alt="Screenshot 2026-06-17 222829" src="https://github.com/user-attachments/assets/b3fa8741-bc81-4b21-9cb4-a817d28eb8a6" />
+<img width="603" height="319" alt="Screenshot 2026-06-17 222844" src="https://github.com/user-attachments/assets/8b8cded1-46b4-4706-a359-9521aa4c117f" />
+
+
+
+---
 
 ## Future Enhancements
 
